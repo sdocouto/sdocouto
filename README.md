@@ -4,6 +4,6 @@
 
 [![alt text](https://img.shields.io/badge/-sauloduarte-blue?style=flat-square&logo=Linkedin&logoColor=white "Linkedin")](https://www.linkedin.com/in/sauloduarte/)
   
-[![sdocouto's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdocouto)](https://github.com/sdocouto/github-readme-stats)
+[![sdocouto's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdocouto)](https://github.com/sdocouto)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdocouto)](https://github.com/sdocouto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdocouto)](https://github.com/sdocouto)
