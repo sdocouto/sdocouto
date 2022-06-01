@@ -1,7 +1,8 @@
 ### Olá!
 
 <p><em>Front-End Developer at <a href="https://cvcrm.com.br" target="_blank">Construtor de Vendas</a></em></p>
-<img src="https://img.shields.io/badge/-sauloduarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sauloduarte/)">
+
+[![alt text](https://img.shields.io/badge/-sauloduarte-blue?style=flat-square&logo=Linkedin&logoColor=white "Linkedin")](https://www.linkedin.com/in/sauloduarte/)
 
 <div style="display: inline_block">
   <a href="https://github.com/sdocouto">
@@ -13,17 +14,3 @@
 </div>
   
 
-<!--
-**sdocouto/sdocouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
