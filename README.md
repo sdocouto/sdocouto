@@ -1,4 +1,14 @@
-### Hi there 👋
+### Olá!
+
+<div style="display: inline_block">
+  <a href="https://github.com/sdocouto">
+  <img style="display: inline_block height="180em" src="https://github-readme-stats.vercel.app/api?username=sdocouto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/sdocouto">
+    <img style="display: inline_block height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdocouto&layout=compact&langs_count=7&theme=dark&count_private=true"/>
+  </a>
+</div>
+  
 
 <!--
 **sdocouto/sdocouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
